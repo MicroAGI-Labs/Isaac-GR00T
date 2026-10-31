@@ -1,6 +1,8 @@
 # GR00T Deployment & Inference Guide
 
 Run inference with PyTorch or TensorRT acceleration for the GR00T N1.7 policy.
+For an evaluator that accepts a complete raw-observation ONNX graph, use the
+[common ONNX policy export](COMMON_ONNX.md).
 
 ---
 
